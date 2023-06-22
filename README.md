@@ -71,6 +71,9 @@ Procedimento:
 16º) Após o download do ipa do testflight descriptografado, abra sua pasta pessoal do seu sistema linux e encontre uma pasta chamada "FSUntether" e jogue esse ipa baixado para dentro desta pasta.
 
 
+*IMPORTANTE: É obrigatório renomear o ipa do TestFlight Descriptografado baixado para TestFlight.ipa antes de jogar para dentro da pasta FSUntether no passo 16º acima. Atente-se também que as letras T e F no nome deverão estar escritas em maiúsculo, pois a programação que obriga renomear desta forma.
+
+
 17º) Após feito tudo isso já pode fechar todas paginas de sites abertos no navegador do seu linux, mas não feche a janela do terminal
 
 
